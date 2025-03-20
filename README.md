@@ -1,7 +1,6 @@
 # Hi, I'm Tahmid Mahmud Fahim
 
-## 🎓 Currently, I am pursuing a **Bachelor of Science in Electrical and Electronic Engineering**  
-at **Bangladesh University of Engineering and Technology (BUET)**.
+## 🎓 Currently, I am pursuing a **Bachelor of Science in Electrical and Electronic Engineering** at **Bangladesh University of Engineering and Technology (BUET)**.
 
 ## 🔗 My Portfolio:
 [![Google Sites](https://img.shields.io/badge/Google%20Sites-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://sites.google.com/view/tahmid-mahmud-fahim)  
